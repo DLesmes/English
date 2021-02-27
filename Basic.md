@@ -25,4 +25,4 @@
 ![](https://static.platzi.com/media/user_upload/537ac26bd2d1188ce744137dde2d10a6-8d1ec993-69ad-4d2e-8700-b3b57129a07b.jpg)
 ![](https://en.islcollective.com/preview/201908/f/greetings-farewells-small-talk-conversation-topics-dialogs_118084_1.jpg)
 
-[Activity](https://docs.google.com/forms/d/e/1FAIpQLScRYwLroxH-Zn653kHjTCCtGQtBQNTjI0jVchlaPoidZLk3xw/viewform:)
+[Activity](https://www.freddiesville.com/greetings-games/)
