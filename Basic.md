@@ -13,7 +13,9 @@
 
 ## Numbers
 
-![](https://static.platzi.com/media/user_upload/numbers2-2014d2ce-cf01-49f6-8126-e5f868b19eac.jpg)
+![](https://lh3.googleusercontent.com/-8eoxuVF0m-E/YDnK73BfGSI/AAAAAAAA8Uo/HBTinehVonsJWh-3Tdrw_3nGrm8JjnkjwCK8BGAsYHg/s0/2021-02-26.png)
+![](https://lh3.googleusercontent.com/-wHOWiP4XV0o/YDnKMnXdh3I/AAAAAAAA8Uc/pNgb2VOYP906OfwSqAiezCZ7AXfSPt3vwCK8BGAsYHg/s0/2021-02-26.png)
+![](https://lh3.googleusercontent.com/-kPA7AVkYJfM/YDnKYc-7VPI/AAAAAAAA8Ug/u9opVhigHSIHac94aPU-a91lQio0FttyACK8BGAsYHg/s0/2021-02-26.png)
 ![](https://i.pinimg.com/originals/36/a6/05/36a605d2149fe298e9834e6fe4885e73.jpg)
 
 * [Activity](https://www.englishclub.com/kids/numbers-quiz.htm)
