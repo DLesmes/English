@@ -1,5 +1,5 @@
 # English
-Main topics for learning English
+Resources and main topics for learning English
 
 ---
 
