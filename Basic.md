@@ -1,18 +1,17 @@
 # Basic English
-## The Alphabet
+## The Alphabet [Home](https://github.com/DLesmes/English/blob/main/README.md)
 ![](https://www.englishclub.com/images/pronunciation/alphabet-pronunciation.png)
-[Home](https://github.com/DLesmes/English/blob/main/README.md)
 
 * [Pronunciation](https://omniglot.com/writing/english.htm)
 * [Activity](https://www.englishclub.com/writing/alphabet-quiz.php)
 
-## Phonetic Alphabet
+## Phonetic Alphabet [Home](https://github.com/DLesmes/English/blob/main/README.md)
 ![](https://www.eslprintables.com/previews/311961_1-Phonetic_Alphabet_Chart.jpg)
 ![](https://www.englishlearnsite.com/wp-content/uploads/2015/08/Phonetic-symbols-used-in-the-dictionary.jpg)
 
 * [Activity](https://www.cambridgeenglish.org/learning-english/activities-for-learners/a2p052-bed-or-bad)
 
-## Numbers
+## Numbers [Home](https://github.com/DLesmes/English/blob/main/README.md)
 
 ![](https://lh3.googleusercontent.com/-8eoxuVF0m-E/YDnK73BfGSI/AAAAAAAA8Uo/HBTinehVonsJWh-3Tdrw_3nGrm8JjnkjwCK8BGAsYHg/s0/2021-02-26.png)
 ![](https://lh3.googleusercontent.com/-wHOWiP4XV0o/YDnKMnXdh3I/AAAAAAAA8Uc/pNgb2VOYP906OfwSqAiezCZ7AXfSPt3vwCK8BGAsYHg/s0/2021-02-26.png)
@@ -21,7 +20,7 @@
 
 * [Activity](https://www.englishclub.com/kids/numbers-quiz.htm)
 
-## Greetings
+## Greetings [Home](https://github.com/DLesmes/English/blob/main/README.md)
 
 ![](https://static.platzi.com/media/user_upload/537ac26bd2d1188ce744137dde2d10a6-8d1ec993-69ad-4d2e-8700-b3b57129a07b.jpg)
 ![](https://en.islcollective.com/preview/201908/f/greetings-farewells-small-talk-conversation-topics-dialogs_118084_1.jpg)
