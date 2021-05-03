@@ -7,6 +7,6 @@ Main topics for learning English
 | ---------- |
 | [Basic](https://github.com/DLesmes/English/blob/main/Basic.md)      |
 | Medium     |
-| High       |
+| [High](https://github.com/DLesmes/English/blob/main/High.md)       |
 
 ---
