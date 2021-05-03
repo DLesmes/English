@@ -1,6 +1,7 @@
 # Basic English
 ## The Alphabet
 ![](https://www.englishclub.com/images/pronunciation/alphabet-pronunciation.png)
+[Home](https://github.com/DLesmes/English/blob/main/README.md)
 
 * [Pronunciation](https://omniglot.com/writing/english.htm)
 * [Activity](https://www.englishclub.com/writing/alphabet-quiz.php)
