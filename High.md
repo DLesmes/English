@@ -3,3 +3,4 @@
 
 ![](https://www.woodwardenglish.com/wp-content/uploads/2013/03/pronunciation-final-s-english.gif)
 ![](https://i.imgur.com/FaBTfCR.png)
+![](https://www.woodwardenglish.com/wp-content/uploads/2012/11/pronunciation-of-ed-in-english.gif)
