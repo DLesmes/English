@@ -2,6 +2,7 @@
 Resources and main topics for learning English
 
 ---
+## Memocard
 
 | Level      |
 | ---------- |
@@ -10,3 +11,21 @@ Resources and main topics for learning English
 | [Advanced](https://github.com/DLesmes/English/blob/main/High.md)       |
 
 ---
+
+## Skills
+* 
+
+### Writing
+*
+
+### Speaking
+*
+
+### Reading
+*
+
+### Listening
+*
+
+## Tips
+
