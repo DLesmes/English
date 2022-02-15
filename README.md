@@ -30,3 +30,4 @@ Resources and main topics for learning English
 ---
 ## Tips
 
+[Strategies to learn english online](https://static.platzi.com/media/user_upload/Untitled-9bba1de0-bc58-4f8e-ab0e-33e824db3e11.jpg)
