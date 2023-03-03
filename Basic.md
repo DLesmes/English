@@ -26,3 +26,6 @@
 ![](https://en.islcollective.com/preview/201908/f/greetings-farewells-small-talk-conversation-topics-dialogs_118084_1.jpg)
 
 [Activity](https://www.freddiesville.com/greetings-games/)
+
+## Vocabulary
+* [AI 4 beginners](https://www.telusinternational.com/insights/ai-data/article/50-beginner-ai-terms-you-should-know)
