@@ -22,7 +22,7 @@ Resources and main topics for learning English
 *
 
 ### Reading
-*
+* [Cambridge Dictionary](https://dictionary.cambridge.org/)
 
 ### Listening
 *
