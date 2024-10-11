@@ -1,4 +1,12 @@
 # Basic English
+## Index - [Home](https://github.com/DLesmes/English/blob/main/README.md)
+* [The Alphabet](https://github.com/DLesmes/English/blob/main/README.md)
+* [Phonetic Alphabet](https://github.com/DLesmes/English/blob/main/Basic.md#phonetic-alphabet---home)
+* [Numbers](https://github.com/DLesmes/English/blob/main/Basic.md#numbers---home)
+* [Greetings](https://github.com/DLesmes/English/blob/main/Basic.md#greetings---home)
+* [Vocabulary](https://github.com/DLesmes/English/blob/main/Basic.md#vocabulary)
+
+
 ## The Alphabet - [Home](https://github.com/DLesmes/English/blob/main/README.md)
 ![](https://www.englishclub.com/images/pronunciation/alphabet-pronunciation.png)
 
