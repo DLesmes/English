@@ -13,13 +13,12 @@ Resources and main topics for learning English
 ---
 
 ## Skills
-* 
 
 ### Writing
 *
 
 ### Speaking
-*
+* [Tongue twisters](https://www.mondly.com/blog/english-tongue-twisters/)
 
 ### Reading
 * [Cambridge Dictionary](https://dictionary.cambridge.org/)
