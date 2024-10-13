@@ -1,4 +1,8 @@
 # Advanced English
+## Index - [Home](https://github.com/DLesmes/English/blob/main/README.md)
+* [Pronunciation](https://github.com/DLesmes/English/blob/main/High.md#pronunciation---home)
+* [Vocabulary](https://github.com/DLesmes/English/blob/main/High.md#vocabulary)
+* [Slides](https://github.com/DLesmes/English/blob/main/High.md#slides)
 ## Pronunciation - [Home](https://github.com/DLesmes/English/blob/main/README.md)
 
 ![](https://www.woodwardenglish.com/wp-content/uploads/2013/03/pronunciation-final-s-english.gif)
