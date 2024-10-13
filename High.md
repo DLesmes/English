@@ -15,3 +15,4 @@
 
 ### Slides
 * [English4AI](https://github.com/DLesmes/English/blob/main/advance/students-slides-curso-de-ingles-para-trabajar-con-ia_270134c8-50d3-4945-a32b-d67e7a76ff72.pdf)
+* [Advance Pronunciation course](https://static.platzi.com/media/public/uploads/slides-curso-de-ingles-avanzando_-pronunicacion_c00259ff-8c50-4760-846a-bb34f139a8bc.pdf)
