@@ -7,7 +7,7 @@ Resources and main topics for learning English
 | Level      |
 | ---------- |
 | [Basic](https://github.com/DLesmes/English/blob/main/Basic.md)      |
-| [Medium](https://github.com/DLesmes/English/blob/main/Medium.md)     |
+| [Intermedium](https://github.com/DLesmes/English/blob/main/Intermedium.md)     |
 | [Advanced](https://github.com/DLesmes/English/blob/main/High.md)       |
 
 ---
