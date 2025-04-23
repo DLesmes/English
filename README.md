@@ -15,7 +15,7 @@ Resources and main topics for learning English
 ## Skills
 
 ### Writing
-*
+* [Typing races](https://play.typeracer.com/)
 
 ### Speaking
 * [Tongue twisters](https://www.mondly.com/blog/english-tongue-twisters/)
